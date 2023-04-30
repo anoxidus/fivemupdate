@@ -2,7 +2,7 @@
 
 echo 'FiveM Update TxAdmin'
 
-cd /var/lib/pterodactyl/volumes/331c27f1-e576-4a20-b172-cf78bcdb4ca4
+cd /var/lib/pterodactyl/volumes/a21f883d-011a-4221-be8a-0747b7bb02a3
 
 rm -r alpine
 
